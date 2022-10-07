@@ -1,0 +1,17 @@
+# Virtual Environment default packages
+
+cycler==0.11.0
+fonttools==4.37.4
+kiwisolver==1.4.4
+packaging==21.3
+pkg-resources==0.0.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+six==1.16.0
+typing-extensions==4.3.0
+
+# Workshop related packages
+
+matplotlib==3.5.3
+numpy==1.21.6
+Pillow==9.2.0
